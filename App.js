@@ -11,6 +11,7 @@ import { StatusBar } from "expo-status-bar";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 import { AuthContext } from "./contexts/AuthContext";
+//my app
 
 const Stack = createNativeStackNavigator();
 
